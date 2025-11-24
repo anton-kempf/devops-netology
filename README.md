@@ -5,7 +5,7 @@
 3
 4
 add fix_branch
-
+add fix_branch IDE
 
 #какие файлы будут проигнорированы в будущем благодаря добавленному .gitignore
 
